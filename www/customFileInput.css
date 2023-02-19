@@ -1,0 +1,20 @@
+.shiny-input-container {
+  margin-bottom: 0px
+} 
+#module_1-file2_progress { 
+  margin-bottom: 10px 
+} 
+.checkbox { margin-top: 0px}
+
+.progress-bar{
+  background-color:#00a65a;
+}
+
+.radio-inline+.radio-inline {
+    margin-left: 0;
+}
+
+.radio-inline {
+    margin-right: 10px;
+    margin-bottom: 10px; 
+}

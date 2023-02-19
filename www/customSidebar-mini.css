@@ -1,0 +1,8 @@
+@media (min-width: 768px){
+          .sidebar-mini.sidebar-collapse .main-header .logo {
+              width: 335px; 
+          }
+          .sidebar-mini.sidebar-collapse .main-header .navbar {
+              margin-left: 335px;
+          }
+        }

@@ -1,0 +1,1 @@
+$(\'div.has-feedback input[type="search"]\').attr( "placeholder", "Все" )

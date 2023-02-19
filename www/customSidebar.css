@@ -1,0 +1,57 @@
+/*# родитель*/
+.skin-green .main-sidebar .sidebar .sidebar-menu .has-selected-child {
+    background-color: #3a3a3a;
+    color: #ffffff;
+}
+
+/*# основная боковая панель*/
+.skin-green .main-sidebar {
+    background-color: #3a3a3a;
+}
+
+/*# активирована вкладка в боковом меню*/
+.skin-green .main-sidebar .sidebar .sidebar-menu .active a{
+    background-color: #202020;
+    color: #ffffff;
+}
+
+.skin-green .main-sidebar .sidebar .sidebar-menu .treeview-menu {
+    background-color: #d5d5d5;
+    #color: #000000; ?????
+}
+
+.skin-green .main-sidebar .sidebar .sidebar-menu .treeview-menu li.active a {
+  background-color: #ffffff !important;
+    border-left: 3px solid #00a65a;
+}
+
+/*# для подпунктов*/
+.skin-green .main-sidebar .sidebar .sidebar-menu .treeview-menu li:hover a {
+  background-color: #00a65a !important;
+}
+
+.skin-green .main-sidebar .sidebar .sidebar-menu .treeview-menu li.active a {
+    color: #000000;
+}
+
+.skin-green .main-sidebar .sidebar .sidebar-menu .treeview-menu li:hover a {
+    color: #ffffff;
+}
+
+.skin-green .main-sidebar .sidebar .sidebar-menu .treeview-menu a {
+    color: #000000;
+}
+
+/*# другие пункты */
+.skin-green .main-sidebar .sidebar .sidebar-menu a{
+    #background-color: #EBEBEB;
+    color: #ffffff;
+}
+
+/*# при наведении курсора мыши*/
+.skin-green .main-sidebar .sidebar .sidebar-menu a:hover{
+    background-color: #00a65a;
+    color: #000000;
+}
+
+
